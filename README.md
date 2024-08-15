@@ -1,3 +1,11 @@
 > [!NOTE]
+> **To execute the command as an administrator in Windows 10 using PowerShell, follow these steps:**
 
-https://github.com/francisuadm/chrome/blob/f3e61e99ae6d9713f397d5587b67fdaf748abf31/assets/ChromeFolder.png
+> [!IMPORTANT]
+> Open ***`PowerShell`*** as Administrator:
+
+> [!TIP]
+> Press ***`Win + X`*** and select Windows PowerShell (Admin) from the menu.
+
+> [!IMPORTANT]
+> Run the Command:
